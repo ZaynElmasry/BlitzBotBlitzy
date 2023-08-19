@@ -1,0 +1,22 @@
+This is an article by Clement Vouillon, titled "#SaaS: How to leverage SaaS app stores for your Go-to-Market strategy."
+
+
+Subtitle: Test new products, reach new user segments and acquire new customers
+
+- I covered this topic in more details in “A landscape of the major SaaS app stores”, but I believe we’ve entered the “SaaS app stores” era. The rise of SaaS platforms impacts many aspects of building a SaaS company, one of which is the go-to-market strategy. The way you develop and bring a product to a specific customer segment can be achieved differently if you leverage software platforms (such as Salesforce’s AppExchange).
+- In the rest of the post, I illustrate how founders can leverage SaaS app stores in their go-to-market strategy.
+
+Testing New Products
+- Before the rise of SaaS app stores, the main way to test a new product — or a new feature — was, well, to build a product or add features to an existing product. Which generally takes a lot of time and resources. Now that many businesses use software platforms, another option is first to build a native plugin/ extension to validate customers’ need, and after to make a standalone product.
+- A good example of this strategy is Clearbit which first created a very well designed Gmail extension that got very popular. They later developed standalone products, such as their API, and added extensions for other platforms.
+- It doesn’t mean that it’s easy to create a well-designed software plugin, but it forces you to focus on the core value you deliver because you have more UI/UX constraints (since it’s integrated in an existing software) and you don’t need to build the necessary “basic infrastructure” such as user login, logout, web hosting, etc.
+
+Targeting New Customer Segments
+- Another benefit of leveraging SaaS app stores is that you’ll find different types of well-defined customers on each platform. The users of Intercom are not the same as the users of Salesforce. Companies using Zapier are probably not similar to the businesses using Marketo’s plugin directory. Whether it’s solopreneurs/freelancers, SMBs, mid-market or enterprise customers, you can find a SaaS platform where they already are. By targeting specific platforms, you can target specific customer segments and reach them faster.
+
+Leveraging new Distribution Channels
+- SaaS platforms are becoming interesting channels to acquire new customers thanks to their app directory and the co-marketing opportunities they offer.
+- Many of these platforms have a public directory of plugins that users can explore to find new extensions. And often they also have ranking or certification mechanisms that surface the best / most popular apps. I know several companies which managed to rise up the rankings simply by asking their best users to review and rate their app. There are still some relatively “low hanging fruits” to be picked there compared to much more crowded channels such as SEO/SEM.
+- Co-marketing actions are another way to reach new customers. Co-marketing actions include PR, social media and newsletter cross-promotion, content marketing (white papers, customer use case…), that are conducted by both parties (the platform operator and the plugin maker). In most cases, it will take a bit of time to create mutual trust, but co-marketing promotions can be a great way to generate awareness and acquire new customers.
+
+
