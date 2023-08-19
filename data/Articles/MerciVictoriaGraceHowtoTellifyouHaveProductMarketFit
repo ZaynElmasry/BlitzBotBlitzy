@@ -1,0 +1,32 @@
+This is an article by Merci Victoria Grace, titled "How to tell if you have product/market fit."
+
+
+- Product/market is less intuitive than it should be. When founders ask me whether they’re ready to start a growth team, I often spend the first conversation helping them figure out whether they have product/market fit. Growth teams only magnify and accelerate your business — they cannot create product/market fit for you.
+- Unfortunately, there isn’t a lot of straightforward writing on the subject online. No one wants to be the bearer of bad news: the truth is product/market fit is rare but obvious. I don’t mind telling you that you don’t have product/market fit because I believe you can learn how to get there. Here’s my framework for understanding product/market fit for early stage self-service enterprise and consumer products.
+
+You have some organic growth already.
+- Ideally more than 50% of your new accounts come from direct or organic traffic. Invites and referral programs are both deep veins of upside that your growth team can mine, but if no one is already telling their friends about your product, you do not have product/market fit. Organic growth is the referral that’s hard to measure. It happens when your coworker pops their head up after the design team starts laughing at a joke in Slack. It happens when the girl standing next to you on the train leans over and says, Cute bag!
+- Organic growth is the key indicator of product/market fit. People love to seem smart and cool. They want to recommend something great to their friends. They don’t need a share button to do it. If they love your product, they will tell people about it.
+
+Your existing users send invites.
+- For a self-service enterprise app, look for at least 30% of available customers to send invites during their first week. For a consumer app, you want at least 60% of available people to send invites. By “available” I mean people who can or should be sending invites — this will vary based on the specific adoption mechanics of your app.
+- There’s a behavioral boolean on inviting: People either have high enough intent/low enough social cost to send invites to their colleagues/friends… or they don’t. Be aware that behavioral change is hard: growth teams lower barriers to existing intended behavior; they rarely create new behavior. Optimizing invites is a classic growth tactic, but it is always easier and to encourage someone who’s willing to send 1 invite to send 3 instead than it is to convince someone to send 1 invite if they don’t want to.
+- The exception to this invite rule is usability. If you have a healthy account creation funnel (an unoptimized baseline over 75% completion) but a really low rate of inviting, then you probably have some usability issues to uncover via user research. No amount of quantitative data substitutes for watching people use your product.
+- The other thing to watch for is if you have a high rate of participation in sending invites, but your users don’t retain well. That dynamic is an indication you’re using dark patterns — essentially tricking your users into sending invites. Congratulations… you played yourself.
+
+Someone loves you; someone hates you.
+- Ultimately what you’re looking for is a high NPS (Net Promoter Score) with your early core customers. But if mixed in with a lot of promoters (9s and 10s) you’re also seeing a handful of detractors (technically anyone with a score of 1–5 is a detractor but your real haters are 0s and 1s), do not despair. Hate is the not opposite of love; meh is the opposite of love. Hatred takes time and energy.
+- A customer who seems like they hate you right may not always hate you — they certainly care about or need your product enough to get worked up in the first place. Outstanding customer service can and does bring people from 1 to 10. It’s much much more difficult to move someone from a 7 to a 10 than to move them from a 1 to a 10.
+- If your NPS is not above 60 with your earliest cohorts of customers, you don’t have product/market fit. This will probably show up in other places as well, like inviting behavior and presence or absence of organic growth. The growth tactic you can use to build on a high NPS is referrals: asking your customers to share your product with their friend or network. With a sufficiently high NPS, you can build an empire of free growth.
+
+Your existing users retain.
+- Even in the earliest days of your product’s life you should see high retention. This is possible to measure even with a small beta community, if your MVP is in a state where it’s consistently available to them. To understand which retention metric is right for you, return to the reasonable human behavior you’re looking for to determine a metric that you can reasonably define as “active” for your specific app. For a daily use product like a messaging or photos app, you want over 50% of your monthly active users to be daily active users. You’ll also want more than 20% of your WAU to be active 4 out of 7 days a week. After a week, you want 40% of your activated users (people who’ve taken some key actions in your app) to retain.
+- As always, I highly recommend the series from Social+Capital on accounting for user growth. You’re the expert on the actions that matter for your product — define what the human behavior looks like first, then define a metric for it, then measure engagement.
+- If you don’t have high retention with your early core customers, it will only get worse— these numbers degenerate over time as your customer base expands away from early adopters and into the next cohorts represented in the diffusion of innovation. Your biggest fans and power users will be the early adopters of your apps, which is part of why it’s critical to know who your target customer is and listen to them closely.
+
+
+Summary
+1. You have some organic growth already.
+2 .Your existing users send invites.
+3. You have a high NPS score.
+4. Your existing users retain.
