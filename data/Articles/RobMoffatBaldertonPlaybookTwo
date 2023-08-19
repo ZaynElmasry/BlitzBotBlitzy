@@ -1,0 +1,115 @@
+This is an article by Rob Moffat, titled "THE BALDERTON PLAYBOOK FOR I18N, PART 2: WHERE?"
+
+Thesis: In this article, we look at where your fast-growth European startup should expand internationally.
+- Too often I see companies taking the default routes of either going straight to the US or adding an ‘easy’ nearby market (Germany > Austria or UK > Ireland). At the same time, a full McKinsey-style market analysis for a company with 50 people is a little 'over the top.'
+
+Question to ask: Is the right way to define your expansion cities, countries, languages, ecosystems or something else?
+
+Step 1: Market Definition
+- Before you think through your international strategy you need to work out how to best define your markets.
+- Is the right way to define your expansion cities, countries, languages, ecosystems or something else?
+- For example, Citymapper’s international expansion is defined around cities, not countries (big clue in the name…). Each city has distinct transit partners to integrate, a distinct set of terminology and localisation requirements, and a largely distinct user base. Synergies across cities are small.
+- Companies such as Uber and Deliveroo are also largely defined around cities (or metro areas), as supply-demand network effects are almost entirely within cities. Deliveroo being big in Berlin would give them limited advantage in expanding to Munich.
+- When these companies rank internal options they are ranking cities, not countries (and so in Europe, London and Paris tend to be the top priority rather than Germany).
+- For a mobile games business such as Wooga, the most important difference between markets is which distribution channels predominate. They can ‘lump together’ all markets where the App Store, Play store and Facebook dominate mobile games distribution: North and South America, South East Asia and Europe.
+- Taste in games is similar across these markets and the only localisation required is some translation. The truly distinct large markets are China, Japan and Korea, where partners such as Tencent, Line and Kakao are far more important for distribution and require careful (local) cultivation.
+- So in games, there are four distinct markets which matter globally: China, Japan, Korea and ‘Rest of World’.
+- For companies in insurtech and fintech. regulations and licensing are an important consideration in growth. Europe has made good progress here on allowing financial businesses to ‘passport’ across borders.
+- In contrast the US here splits into 50 states, all with different licensing and financial regulations.
+
+Step 2: Market prioritisation
+- Don’t jump straight into a massive google sheet with every possible statistic on 100 possible countries!
+- Instead, I suggest you think through what really matters to your specific business, along the following dimensions:
+  1. Is the new market big enough to really matter?
+    - Usually, this means it is at least as big as your home market, preferably bigger. I have a strong point of view here, that ‘infilling’ small supposedly easy markets is not worth spending management time on. By all means, let your existing German team make opportunistic sales to clients in Vienna, but don’t call this international growth. ‘Big’ here means your directly addressable market, proxies such as population, GDP or number of small businesses are a distraction.
+  2. What else are you proving if you win in this market?
+    - For software companies, proving you can win in the highly competitive US market is an important step to building a great company, and towards an IPO or other liquidity events.
+  3. Are there synergies across markets?
+    - For example, if you are in eCommerce you can establish distribution hubs that cover much of Europe, and many suppliers will work with you across the continent. This also applies to sectors such as logistics and advertising.
+  4. Is there dramatic growth or shrinkage of the market?
+    - Single digit % market growth or shrinkage is irrelevant for a startup. However, if the market is falling off a cliff or expanding very fast that should be taken into account.
+  5. How well will your product work in this market?
+    - Speak to a few locals from this country and see how they react. See how analogous businesses compare between countries. If you can keep a consistent product across countries your life will be 10x easier.
+  6. Can you beat the competition?
+    - Who are the local competitors or likely entrants? What advantages do you have, and what advantages do they have? Focus on the local startups as well as the incumbents. Think through partnerships and channels. Local competitors are easy to underestimate, but if network effects or brand are strong the fact that they have a crappy website doesn’t automatically mean you can beat them.
+  7. Will the economics work?
+    - Run a simple test on Adwords or Facebook to see how marketing costs will compare. Make a best guess on pricing and see what this implies for unit economics.
+  8. Do you have a route to market?
+    - Are there channels in this market which control market access and might make life difficult? See for example how UK financial comparison sites have struggled to sign up the strong insurers and displace offline brokers in continental Europe.
+  9. Do you have enough funding to make meaningful progress?
+    - (Or are you confident of your ability to raise this money). The classic mistake here is taking a business to the US too early, without enough funding to do it properly.
+  10. Are there strong ‘winner takes all’ network effects that justify a land-grab?
+    - Be careful here, strong network effects are rare and expanding too fast just to try to close off new markets to competitors can easily kill promising companies (e.g. Gilt, Livingsocial, Hailo).
+  11. Do you have an existing partner or key customer who can help you get started?
+    - For Enterprise software companies the first clients to win in a market are often the hardest, and so if you already have them it will increase your chance of success. Again this is something to be careful with, in particular with partners who might lose interest at a crucial stage or stretch your resources too thin.
+  12. Time zones and travel.
+    - For a new market to be a success you as a CEO and your management team are going to have to get out there in person and spend a chunk more time on the phone.
+    - Jetlag kills your personal productivity.
+
+Step 3: Workshop, and decide
+- Once an analyst, or an intern, has pulled together the data above (ideally with a score and a ranking), you need to make a decision.
+- It is always worth discussing as a management team and getting input from your board. Some issues are nuanced. Some challenges can make countries complete non-starters.
+- At the end of the day though this is your decision as CEO, and should not be a decision made by consensus. You will never get the full set of facts and so you need to make the best decision on available information.
+- As a side note, if you don’t have prior experience of the country it is important that you spend some time there in person to get a sense of local specificities, there is really no substitute for this.
+- Sujay Tyle, the founder of Balderton investment Frontier Car Group, is an extreme example of this.
+- He visits every market in which they operate every quarter, covering Nigeria, Pakistan, Turkey, Chile, Indonesia and Mexico, plus HQ in Germany.
+
+Step 4: Review annually
+- Expanding into new markets takes time. Re-evaluating at every monthly board is too short-term.
+- However, it is important to periodically review the investment in new markets and refocus if needed. Annually is probably the right cadence, although if your market is moving very quickly then more frequently makes sense. Do be patient. It is easy as a founder, having built your home market to some semblance of a well-oiled machine, to believe that you can copy paste to a new market. This is never the case, there will be false starts, mishires, product and messaging tweaks needed. Further posts will go into more depth on this area.
+
+
+European case studies
+- While every business is different, some common patterns do emerge in the companies we are working with at Balderton:
+  - Straight to US
+    - Common in SaaS companies, company goes directly to the US as the second market, once they have established product-market fit in the home market. Common success factor has been at least one founder moving to the US full time.
+    -  Examples in our portfolio include:
+      - Talend
+      - Workable
+      - Aircall
+      - Qubit
+      - Recorded Future
+      - Contentful
+  - Small EU market > UK > US
+    - Company from a smaller European market expands to UK as their first big market, to show they can operate at larger scale, before raising the funds for a big US push.
+    - Examples from our portfolio include:
+      - Kobalt (Sweden)
+      - Depop (Italy)
+      - Spotify
+  - Market-by-market European expansion
+    - More common in marketplace, eCommerce and fintech companies who see European expansion as a more attractive option than US or Asia. This is a methodical approach to expansion, market by market.
+    - Examples from our portfolio include:
+      - Carwow
+      - Gocardless
+      - Lovecrafts 
+  - ‘Land grab’
+    - As exemplified by Rocket Internet, involves launching in many markets at once, hiring local teams fast, trading off capital efficiency for speed and potential to build leading positions in fast-growth markets.
+  - Straight to Asia
+    - Historically this has been a move made once at scale, and even this is not an easy one (Uber is a recent notable example).
+    - Our investments The Hut Group and Yoox have been highly successful in China but were already big across Europe and to some extent the US.
+    - Increasingly, however, we are seeing companies moving to Asia at much earlier stages, given the size and growth of the markets there. Never an easy move to make but with the right partnerships it is feasible. Truecaller have been highly successful in India.
+    - Our investment Luno took the unique route from South Africa -> Singapore -> UK.
+    - Frontier Car Group went straight to Asia, African and Latin America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
