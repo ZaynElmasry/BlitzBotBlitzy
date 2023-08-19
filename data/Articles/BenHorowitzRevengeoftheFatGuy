@@ -1,0 +1,49 @@
+This is an article posted on the Adreessen Horowitz page, written by Ben Horowitz, titled "The Revenge of the Fat Guy"
+
+- Fred Wilson wrote a counter post to my The Case for the Fat Startup that you can find here. Before countering his counter, I’d like to say that Fred is one of my favorite VCs and has a marvelous track record of success. Further, I’d like to thank Fred for posting his article, as it enables me to clarify a couple of subtle but important points.
+- I actually agree with Fred in the base case and never said otherwise: entrepreneurs should build the product that everybody wants before raising a boatload of cash to build the company. But Fred says one thing that is confusing and another that’s just not accurate:
+- Only raise a boatload of cash once you’ve achieved product market fit. Product market fit isn’t a one-time, discrete point in time that announces itself with trumpet fanfares. Competitors arrive, markets segment and evolve, and stuff happens—all of which often make it hard to know you’re headed in the right direction before jamming down on the accelerator.
+- Only Marc and I could have pulled off the Loudcloud/Opsware miracle; other entrepreneurs shouldn’t even try. We certainly didn’t script the movie the way it turned out. I’m not recommending that you as an entrepreneur pattern your own startup after mine. But as an entrepreneur, you have to deal with adversity, as we did with Loudcloud/Opsware. My experiences there are highly relevant to other entrepreneurs. In fact, they are more relevant than Fred’s pattern matching.
+- Let’s talk about each point in turn.
+
+Product Market Fit Myths
+- First, I agree that the best way to build a big company would be to find product market fit and then raise a bunch of money to build a big business. But sometimes, things aren’t so clear. Let me try to describe some of the ways things can get messy as a series of myths about product market fit.
+- Myth #1: Product market fit is always a discrete, big bang event
+  - Some companies achieve primary product market fit in one big bang. Most don’t, instead getting there through partial fits, a few false alarms, and a big dollop of perseverance. By the time it got acquired, Opware had achieved product market fit for a category of software called data center automation. But it wasn’t at all obvious that was going to be our destination while we were getting there. We actually achieved product market fit in a number of smaller sub-markets such Unix server automation for service providers, then Unix server automation for enterprise data centers, then Windows server automation, and eventually network automation and process automation. Along the way, we also built a few products that never found product market fit.
+  - Similarly, Joel Spolsky of Joel on Software and Fog Creek Software fame has an exciting new company called Stack Overflow. He has achieved product market fit in the collaboratively edited Q&A market for audiences such as software engineers and mathematicians. Is this the primary product market fit? Neither of those markets seem that big. Will he need significant new features to find the big product market fit? Probably. Should he invest or stay lean? Good question, and there’s no formulaic answer.
+- Myth #2: It’s patently obvious when you have product market fit
+  - I am sure that Twitter knew when it achieved product market fit, but it’s far murkier for most startups. How many customers (or site visits or monthly active uniques or booked revenue dollars, etc.) must you have to prove the point? As I explain above, there may be multiple sub-markets, each of which need their own product. I show below that Fred himself didn’t realize that Loudcloud had achieved product market fit even though we had. It’s usually not black and white.
+  - Or let’s try a consumer products example. Apple’s first iPod shipped in November 2001. It took nearly two years (91 weeks, to be precise) to sell its first million units. In contrast, Apple’s iPhone 3GS shipped June 2009 and shipped 1M units in 3 days. At what point is it obvious to the original iPod team that they’ve achieved product market fit?
+- Myth #3: Once you achieve product market fit, you can’t lose it.
+  - Fred implies that we raised a boatload of money for Loudcloud prior to achieving product market fit. This is not true. Four months after founding Loudcloud, we had already booked $12M in customer contracts, so we had product market fit by most measures. I’d defy any VC including Fred to point to a company with a $36M run rate 4 months after founding where the VC advised, “stay lean until you achieve product market fit.”
+  - But after that bolt out of the starting gate, the market for cloud services changed dramatically. After Exodus went bankrupt in September 2001, the market for cloud services from semi-viable companies went to zero and we lost product market fit as a cloud services provider. We had to rebuild completely and would ultimately find product market fit in a different set of markets altogether.
+- Myth #4: Once you have product-market fit, you don’t have to sweat the competition.
+  - It’s fine to stay lean if you are not quite sure that you have product market fit and there are no competitors in your face every day. But usually there are. In fact, the best markets are usually the ones in which competition is fierce because the opportunity is big. How long should you stay lean before attacking? Again, there is no formula that works in all (or even most) cases.
+- Exceptions that prove the rule
+  - Now, there are some companies such as Twitter (one of Fred’s brilliant investments) for which the above myths are actual truths. However, I propose that Twitter is more exceptional than Loudcloud or Opsware in that most entrepreneurs are dealing with a situation that looks much more like Opsware than Twitter.
+
+The Marc and Ben Special
+- Second, let’s talk about the Marc and Ben Special. Fred writes: “Ben explains that Loudcloud raised $350mm in four rounds of financing (including an IPO) in the first 15 months of its life. Marc Andreessen and Ben Horowitz can do that. Most of you can not.”
+- It’s true that we raised a lot of money, and not all first-time entrepreneurs can raise that much money. But that’s not my point. The most important fund raising that we did as it relates to The Case for the Fat Startup was the very last round (as is very clear in the original post). We raised that money as Opsware, long after we had lost all of our magic fairy dust. Marc had moved on to found Ning and I was the CEO who nearly ran Loudcloud into the wall. I am quite sure that I did not have exceptional fund raising capabilities at that point.
+- In summary, let me repeat that I agree with Fred in the base case: first build the product that everybody wants, then raise enough money to build the company. If you can build a big company that way, by all means do it.
+- Having said that, your story will almost certainly not be that clean. You might achieve partial product market fit at the same time as a scary competitor, you might not be sure that you have product market fit, you might lose product market fit. When one or more things happen, no pattern matching will save you. You will have to figure out for your own unique situation a) whether there is a clear and present market and b) if there is, how you can take it.
+- Fred implies that what we did at Loudcloud/Opsware was extremely difficult and while Marc and I could pull it off, other entrepreneurs shouldn’t try it. My point is that trying it isn’t really a choice. As an entrepreneur, you will sometimes (maybe more often than you like) find yourself in a difficult situation. I hope to have provided some insight on how you might come out alive when that happens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
