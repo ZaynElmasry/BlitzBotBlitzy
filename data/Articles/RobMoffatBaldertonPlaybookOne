@@ -1,0 +1,67 @@
+This is an article by Rob Moffat, titled "THE BALDERTON PLAYBOOK FOR I18N, PART 1: WHEN?"
+It is in a series of 6 articles from Balderton
+
+Thesis: In this article, we look at when your fast-growth European startup should expand into international markets?
+
+
+- One of the advantages, and one of the pains, of starting a business in Europe is the necessity to think internationally from day one.
+- A founder in the US or China can focus on their home market and comfortably build a $B business. However, this often leads to them thinking internationally at a late stage, struggling to adapt their business accordingly. Whereas a founder in Sweden or Ireland knows from day one that their business needs to be international if it is ever going to get really big. They can build their business accordingly.
+- Prior research indicates that startups from countries with a population below 50 million go international twice as fast as startups from countries with a population above 50 million: 1.4 years as opposed to 2.8 years.
+- At Balderton we have invested in over a hundred European companies over the last seventeen years, the vast majority of which have expanded successfully internationally. Some were international from day one (e.g. MySQL, Workable), some later on (e.g. The Hut, Talend).
+- We believe the next European giant will be a technology company and a key part of Balderton’s proposition to founders is the support we can give them in this expansion. Both our partners and Executive Council have built $B international businesses as founders and operators.
+- This article will be the first of a series summarising the lessons we have learned in helping our portfolio companies grow internationally.
+- "One of the advantages — and challenges — of building a European tech startup is that you have to think globally from day one"
+
+ 1. Are you in a business that is global from day one?
+- Common characteristics of these companies are:
+  - No need for local operations or logistics
+  - A product that does not require localisation
+  - The ability to acquire customers via online channels or global platforms
+  - Minimal local network effects
+- Good examples of this type of business are the games companies and other consumer apps which use app stores and Facebook for distribution.
+- In our portfolio Natural Motion, Vivino, Memrise and Wooga have all been able to launch their games and apps globally from day one.
+- Other examples include self-serve low ticket SaaS companies such as Workable, Paddle and Typeform as well as developer tools such as Sketchfab or Cloud9.
+
+2. Are you ready to add a new country?
+- For businesses that aren’t global from day one, the next question is whether you are ready to think about a new country.
+- Our advice to founders is to get to clear product-market fit before expanding internationally, as pivoting once you have expanded across multiple countries is exponentially more difficult.
+- A common mistake here is deciding you have product market fit too early, for example because your US competitor has raised a big funding round.
+- The canonical example here is Groupon, which led to an international land grab by Citydeal, Dailydeal and others. Some of these companies were able to sell out early but others realised the hard way that retention (of both businesses and users) was a massive challenge.
+- A more recent example was used car marketplaces such as Beepi and Vroom, imitated by the likes of Carpsring, but recently “sold for parts”.
+- You need to be very honest with yourself on whether you have answered the crucial questions for your product yet. For a consumer business like Citymapper this was strong retention and organic growth.
+- For a marketplace or eCommerce business like Carwow you need to be confident of positive unit economics and route to market. For an enterprise software company such as Qubit you need to have a sales model that works.
+- You also need to make sure you have an organization that is ready for international expansion. Successful international growth is going to take a lot of attention from at least one founder, so you need to have enough management bandwidth in the business to cope. You also need the tech / marketing / customer service resource in place to handle another country.
+- Many successful public companies have taken their time to expand internationally. Analysis by Crane on public SaaS companies showed that more than half reached $10M of revenues in their home market before expanding internationally, taking an average of 5.5 years before launching their second market.
+- "Get to clear PMF before expanding internationally — pivoting once you have expanded across multiple countries is exponentially more difficult."
+
+3. How hard and costly will international expansion be?
+- The next step is to think through the main challenges and costs of international expansion. Some considerations:
+  - Regulatory approvals: A particular issue in fintech and healthcare
+  - Product localisation: simple translation / new content / new data sources / new functionality
+  - The need for teams on the ground: in sales/service/operations
+  - Local competition: and what competitive advantage they have (brand, history).
+- You should of course also take into account the advantages you have for international expansion: multinational clients or partners; a superior technology platform; capital; market insights.
+- You then need to put a budget in place for your international growth. Future posts will go into more depth on what this might take. A rule of thumb is to budget enough cash and time so that the target international market can reach 10% of the size of your home market. Then double both numbers.
+
+
+4. How urgent is international expansion?
+- Often a big driver of international expansion is to head off competitors in other markets, particularly in businesses with strong network effects.
+- If a local competitor becomes entrenched, dislodging them will be hard and expensive.
+- Consider Xing in Germany which Linkedin has still not managed to take out 15 years on.
+- Another driver is the risk that if a business does not build internationally early enough it can become entrenched in its home market, never building the product or capabilities to expand abroad. This was the common mistake of European tech companies in the decade 2000–2010. It is thankfully much rarer now with more abundant venture capital and more ambitious founders.
+- Finally, many companies need to move into large competitive markets to push themselves to be the best in the world at what they do. This is often the case for SaaS businesses, where moving to the competitive US market and showing they can win clients versus local competitors is a big driver of long-run value.
+- The trade-off? The return on investment (RoI) of expanding internationally is usually less than the RoI of domestic expansion. Typically €1 invested in local growth will increase user numbers and revenues more than €1 invested abroad. Eventually a company will reach saturation point in its home market and need to expand elsewhere, at which point this equation might switch around, but usually, it is cheaper to expand at home than abroad.
+- So the dilemma founders face is how much short-term domestic growth to sacrifice to head off international competition and maximise long-term value. It is hard to produce a magic formula. Every company is different. For a company like Nutmeg, the UK’s leading roboadvisor, with a $B opportunity locally and high regulatory and product costs for international expansion, the right answer was to go international later in its development.
+- In the case of Frontier Car Group, a marketplace business to sell used cars, there was a clear first-mover advantage due to high network effects, and so the company launched in four international markets from day one.
+- A process we find works well is for the management team to take 1-2 days thinking through their international plan, including target markets and resources needed. A team member or a strong intern can pull together the relevant data beforehand.
+- The management team would then revisit this with their board as a ‘pre-mortem’ on what could go wrong e.g. insufficient investment in new market; starving the home market of investment; running out of cash before reaching key milestones.
+- "The dilemma: how much short-term domestic growth to sacrifice to head off international competition and maximise long-term value"
+
+5. Will international expansion increase my valuation?
+- This is a question I get asked a lot as a VC, but I think the questions above are much more relevant. Valuations at Series A/B/C are a combination of many variables of which internationalisation is just one. The trade-off versus short term growth makes adding another country not obviously value-accruing.
+- In future posts, I will go into some case studies of international expansion, both positive and negative. I will also go into how to choose which countries to expand into, and how to go about doing it.
+- As always comments or questions are more than welcome. See my team page for the best way to reach me.
+
+
+
+
