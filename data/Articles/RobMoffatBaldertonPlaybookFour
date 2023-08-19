@@ -1,0 +1,79 @@
+This article is titled "THE BALDERTON PLAYBOOK FOR I18N, PART 4: HOW TO BUDGET" and is written by Rob Moffat
+It is the fourth installment in the Balderton Playbook Series
+
+Thesis: In this article, we look at the steps high growth European startups should go through when budgeting for internationalisation efforts
+
+- Budgeting for international expansion is simple. Make a sensible plan, then triple the cost and triple the time required… 
+- This is actually one of the toughest questions our companies face. Given 18-24 months cash runway it is hard to decide how much precious cash to invest in new markets which may or may not work, without moving too slowly and letting competitors build a lead.
+- In this post, I give my preferred approach for a company which is aiming to be reasonably capital-efficient. A more aggressive, big-spending approach can also work in some instances (see Uber, some Rocket Internet ventures), assuming fundraising markets remain supportive and the core business works well.
+
+Step 1: Your international proof points
+- A previous post in this series gave a framework for working out which countries to expand to first, and what factors to consider. Once you have chosen your first country, use this analysis to work out what might be tricky in expanding to this market. You need to work out what you are trying to prove and in what order.
+- Depending on your business you may be trying to prove that in the new market:
+  - people will use your product
+  - you can deliver NPS for your product that is as high as in the home market
+  - you can retain users and/or get them to spend
+  - you can sell your software
+  - you can win competitive pitches versus local competitors
+  - you can build a supplier base
+  - user acquisition costs are acceptable
+  - unit economics work
+- The question to ask yourself is what proof points will give you the confidence to then invest 10x as much for growth. If there are a few points, try to test the hardest one first.
+- For example, if you are a SaaS business moving to the US, seek out competitive pitches against your biggest US competitor. When our portfolio company Qubit was expanding to the US, their focus was on winning 'lighthouse' customers from strong local players such as Adobe and Monetate.
+- If you are an eCommerce or consumer marketplace business, the toughest question will be whether you can prove out unit economics, in particular, conversion rates.
+
+Step 2: The minimum viable subsidiary (MVS)
+- Step two is to work out your minimum viable subsidiary (MVS): the cheapest way you can validate your international proof points in a new market.
+- You will need to work out what team you need to prove out these points. This is likely to include one smart, agile country manager, plus a small number of people in service, sales, marketing or account management.
+- Ideally, you want to hire the country manager first then get them to hire their team. Where possible try to use allocated resource in central teams (e.g. for SEM) as they can get going faster and make more use of what you learned in your home market.
+- Your precious resource at this point is usually your development team, so work out how you can launch in the new market with minimum development resources.
+- Using a proper CMS and integrating translation really helps here, as does using WordPress or similar for your homepage.
+- Wherever possible look to narrow the scope of this MVS to maximise success. Sell only your core product. Use manual workarounds to avoid building difficult integrations. If you are taking your SaaS company to the US, sell only to companies in New York. If you are taking your marketplace business to Germany, start only in Munich.
+- However, do not fall into the trap of underinvesting.
+- “Scout programmes”, where you have one individual trying to evangelise a new market, rarely work. In my time at Google EMEA 2007-2009 we had single 'Scouts' in a dozen or so of the smaller European countries. These scouts were given the task of building Google’s revenues in the country, across all sectors and sizes of advertiser, but with no product or marketing support. With the benefit of hindsight, this was much too big an ask, even for a product as easy to sell as Adwords, and the results were very mixed.
+
+Step 2b: Work out which city to base your MVS in
+- Once you have defined your MVS you will need to choose which city to base local personnel in. This should be convenient for customers and partners, and for travel links back to HQ. Build somewhere that you can scale up the team longer term. Don’t fall into the trap of opening in a location where you can hire more cheaply, or where you have a personal connection, as limited talent pools will cause problems down the line.
+- In the UK it is hard to argue for a location other than London, and the same is true for France and Paris.
+- In Germany and the US there are more options. We have seen Balderton portfolio companies successfully land in the US in cities that include New York, Washington, San Francisco (Bay Area), Los Angeles and Boston.
+
+Step 3. Set a sensible timeframe
+- Start by working out how long it should take to prove out the MVS. Allow time to hire the team and allow extra to anticipate the inevitable need to replace some of the initial team members.
+- Allow extra time for iteration. Every country is different and the local team will need to experiment with how they position and communicate the product.
+- Often it can take at least a year to prove that your product can work in a new country. Sometimes it can take much longer, or not work at all.
+
+Step 4. Set the budget for one country
+- Using the output of steps two and three, work out how much to budget to get to MVS, including personnel, marketing and overheads. You can get some idea of local salaries from a tool like Indeed.com, or a local recruiter. Be aware of different tax systems which can add a lot to base salary, and of higher costs to lay off underperforming employees.
+- Also include fees to recruiters, allowing for employee churn, and estimate legal fees for set up of local entity and any regulatory approvals required. Also include travel budget for the team to fly back regularly to HQ, and allow some leeway for currency fluctuations (currency hedging is not necessary at this stage).
+- The most expensive person will be the local country manager (that is unless one of the founders is moving over themselves).
+- The first tip on this role is not to overhire.
+- You aren’t looking for someone who is ready to run a 100-person business, but someone who is smart, flexible, driven, can manage people and has some relevant experience.
+- The second tip is to incentivise this person generously with equity, tied to hitting local performance targets.
+- It can be tempting to set up local subsidiaries and give local team equity in the local subsidiary, but this creates a lot of complexity in corporate structure further down the line.
+
+Step 5. Work out how to prove MVS
+- Work out how many markets you can parallel-process to prove out MVS.
+- No matter how well you prepare, sometimes new markets just don’t work. More commonly, they can work but take a lot longer than you anticipated. If you can afford it, it makes sense to launch multiple markets in parallel, to maximise the chance that one of them comes through quickly.
+- If you are launching multiple markets, it is worth also budgeting for a head of international to manage across them, to ensure they are applying best practices and be their voice to the product and tech team. As with early country managers, this does not have to be an expensive hire with prior experience as a head of international, but it does have to be someone that the country managers will respect. Ideally, it is someone already in the business.
+
+Step 6. Budget to double down where MVS has been proven
+- Once you have proven your MVS in a market, you should start investing quickly to grow. This will obviously involve more marketing spend, a bigger sales and service team, potentially a branch office.
+- While the MVS was all about being scrappy, it now makes sense to build something scalable, with proper backend systems and tools, and dedicated product and design resource.
+- Without going into great detail, it makes sense to have some idea how much it would cost to really double down in a new market. Allow time to hire the new people and ramp up marketing.
+- It is OK not to have all the budget you need to fully ramp up, much more important to have demonstrated MVS.
+
+Step 7. Get buy-in from management
+- Build your budget following the steps above. Add to your existing budget. Get buy-in from management. And iterate.
+- Once you have completed the analysis above, sense check it versus your existing budget. Make sure you still have enough cash runway to make strong progress before needing to fundraise again (or — even better — turn profitable). It is important to take the time required to get your cofounders and senior managers to buy into the plan.
+- An international strategy cannot be built by consensus but it must have the buy-in of the company if it is to succeed. The whole company needs to feel that international markets are important, despite the small initial volumes, so that they do not get forgotten in product development or marketing changes.
+
+Step 8. Get on with it!
+- Assuming you are in the usual VC fundraise cycle of 12-24 months between fundraises, it makes sense to kick off new markets immediately after funds are received, so that you have time to show meaningful progress in new markets by the time of the next raise.
+- However it is acceptable for it to take 2-3 years, or two fundraising cycles, to really show volumes coming through in a new market.
+- The process here sounds like quite a few steps, but should all be do-able in 2-4 weeks. It is important to then get going quickly as hiring the international team will take time. The good thing about international expansion is that it can be done in parallel with other growth efforts.
+
+
+
+
+
+
