@@ -1,0 +1,86 @@
+This is an article by Andy Sparks titled "Fundamentals of Product-Market Fit" for the Holloway website. It's an excerpt from the Holloway Guide to Raising Venture Capital
+
+Early-stage companies likely won’t have reached product-market fit, but the earlier you start thinking about how you plan to reach it, the more confidence investors will have that you’re the right founder to invest in. When you pitch investors in your seed round, your task will be to show them that the amount you raise will help you reach or progress significantly toward product-market fit. Understanding product-market fit and its components—products and markets—can be the difference between working for eight years only to discover no one wanted what you were building, and building a company that creates immense value for the world, your employees, your investors, and you.
+
+What is Product Market Fit?
+- Product-market fit is a relatively new, yet essential, concept that startup founders at any stage need to understand. This section synthesizes the best resources out there on what it is and how it works, from business professors, venture capitalists, growth experts, and entrepreneurs. Product-market fit can mean different things to different founders; here’s our definition of the concept:
+- Product-market fit (product-market fit or PMF) refers to the notion that there is a point at which a given market responds so positively to a company’s product that the product fits the market’s needs. A precise point at which fit has been achieved does not exist. Instead, product-market fit represents a continuum of traction that ranges from absolute clarity that a company does not have product-market fit to maybe they have product-market fit to experts disagree whether they have product-market fit all the way to it’s beyond all doubt they have product-market fit.
+- This may feel dull or even juvenile, but grab a piece of paper or open a Google Doc, and write down the following two questions: 
+  1. What is a Product?
+  2. What is a Market?
+- Each of these terms is something we all have an intuitive sense of, but when it comes to defining the two, people can have a wide range of differing ideas about what each means. Understanding product-market fit is dependent on a shared understanding of both products and markets.
+- Products are straightforward. They are anything produced or anything that people trade with or for. Markets, on the other hand, are more challenging to define and more widely misunderstood. Our favorite explanation of what makes a market comes from Bill Aulet, author and managing director at the Martin Trust Center for MIT Entrepreneurship and Professor of the Practice at MIT’s Sloan School of Management. In his book Disciplined Entrepreneurship, Aulet lists three conditions that define a market:
+  1. “The customers within the market all buy similar products.
+  2. The customers within the market have a similar sales cycle and expect products to provide value in similar ways. Your salespeople can shift from selling to one customer to selling to a different customer and still be very effective with little or no loss of productivity.
+  3. There is ‘word of mouth’ between customers in the market, meaning they can serve as compelling and high-value references for each other in making purchases. For example, they may belong to the same professional organizations or operate in the same region. If you find a potential market opportunity where the customers do not talk to each other, you will find it difficult for your startup to gain traction.”*
+- Product-market fit is widely misattributed to Marc Andreessen by bloggers and writers, but Andy Rachleff coined the term. As of Spring 2019, Rachleff is the President and CEO of Wealthfront, a lecturer at Stanford Business School, and the co-founder of Benchmark Capital. In a 2007 article, “The only thing that matters,” Andreessen credits Rachleff for the term and synthesizes much of Rachleff’s thinking, which has inspired the thinking of investors and entrepreneurs alike for more than a decade. Andreessen highlights three important frameworks:
+
+
+- Rachleff’s Law of Startup Success: Rachleff says, “The #1 company-killer is lack of market. When a great team meets a lousy market, market wins. When a lousy team meets a great market, market wins. When a great team meets a great market, something special happens.” This idea is critical for entrepreneurs to understand, especially when considering raising venture capital. If the market for your product is not big enough, you will struggle to raise venture capital. Many companies lie in the startup graveyard because good entrepreneurs unintentionally chose to build products for small, crowded, or shrinking markets.
+- Rachleff’s Corollary of Startup Success: “The only thing that matters is getting to product-market fit.”
+- BPMF and APMF: The lives of startups are divided into two categories, “before product-market fit” (BPMF) and “after product-market fit” (APMF).
+*Important*  
+- So much of the venture capital ecosystem is built up around these three concepts. Early-stage funding is designed to help founders get their companies to product-market fit; investors at this stage are looking for a company to demonstrate progress toward product-market fit. After a certain point—usually but not always by the series A—a company that cannot demonstrate some progress toward product-market fit will seriously struggle to raise venture capital.
+
+Measuring Product Market Fit
+- To show investors—and determine for yourself—that you’re on the right track, you want to be able to measure your progress toward product-market fit. These takes on measuring product-market fit from Andreessen and his business partner at Andreessen Horowitz, Ben Horowitz, show that experts in the field of venture capital don’t always agree on what they’re looking at:
+  "You can always feel when product-market fit isn’t happening. The customers aren’t quite getting value out of the product, word of mouth isn’t spreading, usage isn’t growing that fast, press reviews are kind of ‘blah’, the sales cycle takes too long, and lots of deals never close. And you can always feel product-market fit when it’s happening. The customers are buying the product just as fast as you can make it—or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You’re hiring sales and customer support staff as fast as you can. Reporters are calling because they’ve heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck’s."
+  "I am sure that Twitter knew when it achieved product-market fit, but it’s far murkier for most startups. How many customers (or site visits or monthly active uniques or booked revenue dollars, etc.) must you have to prove the point? …[There] may be multiple sub-markets, each of which need their own product. I show below that [Fred Wilson] himself didn’t realize that Loudcloud had achieved product-market fit even though we had. It’s usually not black and white."
+- So how can you measure progress toward product-market fit when no one agrees on what it means to reach it? First of all, many don’t agree with the “BPMF/APMF” approach. Rather, some founders (and investors) see product-market fit as a continuum, something you can move closer to and farther away from over time. So the idea of reaching product-market fit and then taking it easy is moot. It’s more important to figure out how close you are. Fortunately, several entrepreneurs have wrestled with the challenge of measuring product-market fit and come up with data-driven approaches for understanding where your company is on the product-market fit spectrum.
+
+Three models for finding fit
+1. Vohra's Model
+  - Building on earlier work from Sean Ellis and Hiten Shah, Rahul Vohra, co-founder and CEO of Superhuman and, previously, Rapportive, published “How Superhuman Built an Engine to Find Product-Market Fit.” We’ve summarized the key points below, but this is an absolutely essential essay we highly suggest every founder take the time to read.
+    - Vohra created a simple four-question survey companies can send their users to gauge their satisfaction with the product:
+      1. How would you feel if you could no longer use [product]? (Set possible responses as A. Very disappointed, B. Somewhat disappointed, or C. Not disappointed)
+      2. What type of people do you think would most benefit from [product]?
+      3. What is the main benefit you receive from [product]?
+      4. How can we improve [product] for you?
+    - Vohra then recommends a four-step process for optimizing product-market fit using the survey data:
+      1. Segment: Research the respondents. What job title does each person have? Are there commonalities among those who selected option A (very disappointed)? Vohra recommends using Julie Supan’s “High-Expectation Customer Model” to build personas for your most ardent supporters so you can get a better idea of who loves your product.
+      2. Analyze: By looking at the feedback from users who selected option B (somewhat disappointed), companies can get an idea of what they need to build in order to turn option B users into option A users.
+      3. Build: Start with high-impact, low-cost features that option B users are asking for while making sure that the option A user experience doesn’t degrade.
+      4. Repeat 1–3: On a regular basis, send this survey to your users and repeat the process so you continue to deliver new value—not only to the users who love you already, but to those who are on the fence.
+
+2. Balfour Model
+  - “The Never Ending Road to Product-Market Fit” by Brian Balfour is another essential piece on how to measure product-market fit. Balfour was previously the vice president of growth at HubSpot, is currently the founder and CEO at Reforge, and is a prolific blogger on product-market fit and how to grow a startup. He believes there are four checkpoints for knowing where you are with product-market fit:
+  - The Leading Indicator Survey
+    - Balfour wrote this article before Vohra published his (he references the same work by Sean Ellis that Vohra does), but we’re confident he’d have included Vohra’s piece as a suggestion for how to gather data. What companies are looking for when gathering leading indicator data is signs that people like the product. Ellis’s and Vohra’s surveys are great options, and Balfour also recommends using Net Promoter Score (NPS) surveys.
+  - Leading Indicator Engagement Data
+    - In this step, companies should be looking for data on what users are actually doing and whether they’re doing it with any kind of regularity. Do users only engage with one part of the product? Do they come back daily? Once a week? These data complement the leading indicator survey because they back up the idea that people like the product with proof that they’re using it.
+  - The Retention Curve
+    - If people like a product, they use it repeatedly. Retention curves are a critical tool for measuring a product’s success. A retention curve is a graph of what percentage of your users use your product (y-axis) over time (x-axis). If some segment of your users keeps coming back, your curve will flatten out—a good indicator you’ve found product-market fit within a group of users.
+  - The Trifecta
+    - Balfour’s trifecta includes non-trivial top-line growth, retention, and meaningful usage. Companies that can prove they can grow the number of people using their product, that those who use the product once continue to use it, and that those users are consistently enjoying the product, can say they’ve reached product-market fit.
+
+3. Mochary Model
+  - One last model, which is much looser than Vohra’s or Balfour’s, is from Matt Mochary. Mochary is an executive coach who has worked with clients at Kleiner Perkins, Sequoia, Reddit, and more. In The Great CEO Within, he defines product-market fit thus:
+    - "[Having] created a product that customers are finding so much value in that they are willing to both buy it (after their test phase) and recommend it. Metrics that show whether PMF has been achieved include: revenue, renewal rates, NPS (net promoter score)."
+  - The frameworks from Vohra, Balfour, and Mochary should give you the tools to understand where on the product-market fit spectrum your company lies. Many companies take years to find product-market fit; the story of project management software company Notion is a great example. These tools should enable you to understand your users well enough that you can iterate and build new features until you can proudly proclaim you have found product-market fit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
