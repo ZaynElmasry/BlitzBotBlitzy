@@ -1,0 +1,36 @@
+This is an article by Andrew Chen titled "Why premature scaling fails: The Traction Treadmill"
+
+Questionable product/market fit meets premature scaling
+- Here’s why it’s so dangerous to scale a product with questionable product/market fit: The Traction Treadmill.
+  - It’ll kill your company. Let me explain why it happens.
+- Sometimes you build a product that’s just doing okay. Not great, but not bad either. Users show up, and some of them stick around – but not many. You can quantify this with cohort retention curves. For a social app, this might be when your D30 is 10%, not 20%+. For a subscription product, this might be when your annual retention is <20%. It sort of works, but not really.
+- So what do you do if it’s going OK, but not quite working? Some teams look at this and are overly optimistic – it’s time to scale. Just add users, instead of increasing stickiness. And this works, for a time. You can grow fast just by doubling ad spend. Or tripling ad spend.
+
+The blessing of a small user base
+- In the early days this works. Let’s use a real example — let’s say you start with 1,000 active users, and then you want to 3x. The good news is, 3x with 1,000 users just means you need to buy 2,000 users. To grow it further, you just repeat again, right?
+- Well, not quite. Even if you’ve bought 2,000 users, you might only retain 500 of them longer term. (So that you have 1000 actives + 500 new actives). The problem is that a large % of these users burn off. That’s fine, maybe just replace them, by buying more users? To 3x again, you have to replace:
+  1. The % you lost
+  2. Plus, buy another whopping amount just to grow
+- If you’re starting with 1,000 and you buy a bunch to get to 3,000, and then again to 9,000, that works. Your marketing budget might allow for a $10 CAC, for instance, and your outlay is <$100k to triple each time. Always worth it. That might work, if you’re still dealing with 1,000s or 10,000 users
+
+The treadmill arrives
+- The traction treadmill eventually arrives once the numbers get big. This is when you lose a % of users fast, but then just have the budget and funding to replace them- but then can’t keep grow on top. Eventually on a base of millions of users, you might churn a million users, and need to replace them — and buy more, to grow. So then you’re starting to talk about very large outlays, just to stay afloat, much less to consistently grow.
+- You start running hard and just staying in one place.
+- You might increase budgets. Pay up on CAC/LTV. Optimize and run experiments. And that works a little.. until the treadmill reappears.
+- The problem with the treadmill is that your team and scale makes it hard to iterate substantially on the product and business. You’re locked in. If things flatten for months, or a year, eventually morale becomes a problem. Options start to narrow. And the real solution – to increase stickiness – becomes too slow and complex to execute.
+- Whenever I see a high-flying startup that’s raised $100s of millions of dollars with a high paid marketing dependency which then flatlines, it’s usually some variation of this story. The problem ultimately is that the early days of growth are less about the intrinsic quality of the product, and more about the ability for the team to ramp up spend. And as CAC’s float up as volume increases – due to the Law of Shitty Clickthroughs – it gets harder and hard.
+- Then you fall off the traction treadmill. Game over.
+
+Conclusion
+- In the end, this story isn’t about polishing your product forever. I’m certainly not encouraging that. But I do think you need to understand where your product stands relative to other successes (and failures in the market). The benchmarking is important. And if you try to scale and fix at the same time, be prepared for the treadmill to show up. By then, your nimble speedboat of a product will have grown into an aircraft carrier, and it’ll be hard to turn things around. This is when scale becomes the enemy to iteration.
+
+
+
+
+
+
+
+
+
+
+
