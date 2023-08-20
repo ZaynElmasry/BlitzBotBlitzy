@@ -1,0 +1,114 @@
+This article by Ann Miura-Ko is titled "For Founders: How To Build a Minimum Viable Company" and written for Be On Deck
+Ann Miura-Ko is a founding partner at Floodgate Ventures
+
+How To Build a Minimum Viable Company
+- Product-market fit is not enough. Over decades of experience investing in seed-stage companies, I have seen plenty of companies reach product-market fit and fail. When building a company, founders should seek more than product-market fit. Instead, they should build a minimum viable company.
+- This guide explains how founders can equip themselves with the tools to start their company on the right foundation. It includes advice on:
+  - The 2 distinct early stages of building a billion-dollar company
+  - The 3 essential ingredients of a minimum viable company
+- For early-stage founders, these frameworks can help avoid wasted effort, de-risk the business, and improve the chances of unicorn-level success.
+
+The Two Stages of Building a Billion-Dollar Startup
+- As appealing as rapid growth sounds, there is such a thing as too much growth too soon. For your startup to become sustainable at scale, it must provide massive value to your customers. Practically, founders should separate their company-building into two stages:
+  1. Value-seeking stage, in which your startup delivers new value to an ecosystem
+  2. Growth-seeking stage, in which your startup accumulates customers en masse with increasing speed and predictability
+- All too often, founders dangerously mix the two, seeking rapid growth before they fully understand how to deliver their product into their ecosystem in a sustainable manner. This combination can lead to a company burning bright for a moment before disappearing forever. Before seeking growth, your startup should deliver sustainable value to satisfied customers in an accepting ecosystem.
+- As these two stages are marked by different needs, they each require their own fundamental breakthroughs:
+  1. Value requires an inflection insight. How is your industry experiencing a shift in direction (an “inflection point”)? Where can you deliver novel value into the ecosystem?
+  2. Growth requires product-market fit. When your company provides significant value to satisfied customers in a sustainable way, growth will start organically. Once that growth begins, it can be understood and accelerated.
+
+Finding an Inflection Insight
+- The act of seeking venture funding implies a startup’s belief in its potential to reach massive scale. An inflection insight is the first step on the road of justifying that belief.
+- Most startups that turn limited capital investment into extraordinary valuations are operating in an industry where an inflection point is creating powerful headwinds. Companies in accelerating industries can succeed by riding these waves while those who fight the industry forces are destined to struggle.
+- Every inflection point has a cause. These causes are typically technological developments, regulation changes, or societal shifts. They enable an industry to make or distribute its products cheaper, faster, or to additional customers.
+- As startups operate in competitive business landscapes, merely spotting an inflection point is not enough. The company must combine recognition of that inflection point with an insight about the industry that is:
+  1. Anti-consensus and correct. Typically, unicorn-level startups offer entirely new sorts of products and services, so your idea must put you in an industry’s white space or provide the potential to create an entirely new industry.
+  2. Exponentially impactful. A small secret is not enough. Your observation must offer a massive level of scale. One common version of this exponential impact is an exponential growth curve: if increased distribution provides you some greater-than-linear benefit as you scale, your company’s growth will naturally accelerate once you start selling.
+  3. Durable and defensible. To keep your edge long-term, you must have an insight that’s not easily copyable or destroyable by competitors.  
+- Founders don’t merely forecast the future; they design the future. The most successful founders are those who don’t accept the status quo: they take a proactive role in creating a new kind of future. A satisfying inflection insight is the first step.
+- As an example, the interface design company Figma offers multiple successful inflection insights that it has harnessed on its way to a $10 billion valuation.
+
+Reaching Product-Market Fit: Build a Minimum Viable Company First
+- Excited investors or enthusiastic customer responses are not enough. (Both are more often lagging indicators, not leading indicators). In order to get to PMF, you need a minimum viable company consisting of:
+  1. Product value
+  2. Ecosystem fit
+  3. A viable business model
+
+
+1. Create Product Value
+- When they pay for your product, customers hire it to satisfy their needs. Your product must therefore be more than a bag of features: it must make promises and follow through with real value. If you’re aiming to create sufficient product value, ask yourself:
+  - What is my product being hired to do?
+  - What must my product do to be exceptional at this job it’s hired for?
+- The world’s most profitable companies, from Netflix and Amazon to Southwest Airlines, all provide clear product value by doing a job exceptionally well.
+- Most products are not instantaneously valuable to their users. To capitalize on your product’s value, a customer must invest time, money, or effort into understanding, onboarding, or integrating your offering. For your product to be worth a customer’s investment, they must receive overwhelmingly more value than they incur cost.  
+- Not only must your product be more valuable than it costs: this trait must also be apparent to the customer quickly. If your cumulative customer delight out of the gate isn’t sufficiently high, many customers will bounce, never to be seen again.
+- Often, a company won’t offer massive delight out of the gate. Instead, as the product evolves, you will experience a massive acceleration in customer delight that I refer to as a “WTF moment”. For example, in the early days of Lyft, users experienced a number of WTF moments:
+  1. Previously familiar with taxi waits lasting between 10 and 30 minutes, Lyft customers were astonished when their ride arrived in under 3 minutes.
+  2. Upon entering the car, the driver was friendly and approachable: Lyft felt like a friend picking them up rather than a professional driver.
+  3. The car’s interior was more akin to their own or a peer’s than a grungy cab.
+  4. Drivers offered music, water, and friendly conversation.
+  5. The cost was much less than a cab, all paid automatically through the rider’s phone.
+- All of these WTF moments accumulated to produce a massive jump in customer delight and a clear product value for Lyft users. When you’re building a product, seek to satisfy customers via as many WTF moments as possible as early as possible.
+- To recap, when assessing the product value of your startup, ask yourself these questions:
+  1. What was our product hired to do, and how good is it at its job?
+  2. During every point on the customer’s journey, how much value does our product deliver compared to the amount of cost it incurs?
+  3. What are our customers’ WTF moments and when do they happen? How can we create more WTF moments for them, sooner?
+
+2. Ecosystem Fit
+- Products don’t live in a void. Too often founders focus on building a great product but forget that success also requires an understanding of their industry ecosystem.
+- An ecosystem includes every single person, entity, and external factor that could potentially interact with your company or product. Who are the buyers, users, suppliers, competitors, and regulators? How does your offering impact these elements?
+- You must understand the ecosystem to know where your company sits, how entities respond to products like yours, and what key players’ motivations are. If you build a company without understanding your ecosystem, you risk being destroyed by foreseeable forces much larger than you.
+- To understand an ecosystem, I like to look at the two types of fundamental flows inherent to all ecosystems:
+  - Money flow shows how all parts of the ecosystem capture value from the rest of the ecosystem
+  - Information flow shows who the influencers are and how you can become known to the other entities (including your customer)
+- If you don’t understand how both money and information flow through your ecosystem, you run the risk of either building a very popular product that fails to make money, or creating a very monetizable product that no one knows about.
+- The value of ecosystem knowledge correlates with the complexity of your industry. In enterprise software, for instance, many different stakeholders can have profound impacts, so an understanding of the ecosystem is correspondingly important to avoid unintentional issues.
+- Even if the flows in your ecosystem initially appear simple, they get much more complex once competition begins. One of the benefits that comes from founding your company on a non-consensus insight is the ability to operate in a less competitive landscape.
+- To understand your ecosystem, consider the following questions:
+  1. Who are the entities in our ecosystem? (Be sure to include customers, vendors, competitors, and influencers.)
+  2. Who are our fans and your biggest threats? (Be sure to include both direct competitors and dangerous market forces.)
+  3. How large and accessible is the market?
+  4. How will our entry alter the ecosystem itself?
+
+3. A Viable Business Model
+- A sustainable business must both create and deliver value, as well as capture that value. To ensure your business is sustainable, your minimum viable company must therefore include all the economics of your business, including:
+  1. A pricing and margin structure
+  2. A customer acquisition strategy
+  3. A customer success plan (including customer support and education)
+- Often, misguided founders try to raise seed rounds while saying “we’re punting on pricing”. This is a recipe for disaster. You may have great product-market fit for a free product, but that means absolutely nothing for a paid product.
+- If someone offers you a product at a vastly discounted or free rate, you may take it even if it doesn’t offer you significant value. Therefore, without a verified pricing structure, you haven’t proven that you can build a profitable business. If you’re building a charity, that may be fine. If you’re building a venture-backed startup, you need to realize profits.
+- Mathematically, the natural requirements of a business mean that:
+  1. To create value and delight for customers, the perceived value of your product must be higher than its cost.
+  2. To create value for your business, the price of your product to customers must be higher than the marginal cost of producing each unit.
+- To reach this win/win scenario, I recommend you test your pricing even before you reach product-market fit. These tests are best performed while you’re still in the value-seeking stage of your company. That way, you won’t end up in the unenviable position of ramping up your growth only to learn that your unit economics are unsustainable, a deadly (and common!) trap.
+- To evaluate the viability of your business model, ask yourself these questions:
+  1. How do we make money? What are our unit economics today, what will they look like as we grow, and what will they look like at scale?
+  2. How is our business valued? If we are successful at building the business of our dreams, what currently-existing company is our business model most similar to?
+  3. What levers can we pull to change how our business captures value?
+
+4. Achieve a Minimum Viable Company
+- The elements of a minimum viable company don’t exist in a vacuum. They are interconnected and interrelated in an intricate web. For example:
+  1. Product value can influence your ecosystem relationships and impact your business models and pricing.
+  2. Your ecosystem can determine how customers realize value from your product and which business models are available to you.
+  3. Your business model informs the value your customers receive and which members of your ecosystem are friends and foes.
+- Product-market fit naturally arrives when all three elements of a minimum viable company work well together. It is therefore more helpful to consider product-market fit as a minimum viable company than merely as a relationship between a product and its customer base.
+
+Building the Foundation for a Unicorn
+- While product-market fit looks different for every company, its elements are often the same:
+  - Successful startups create value before they grow. If you scale before satisfying customers, you risk being a flash in the pan.
+  - Sustainable value is based on an inflection insight. What currents are you riding that could power your company to success?  
+  - Every entity must be satisfied: customers, the ecosystem, and internal business economics.
+- True product-market fit is only achieved when you combine all these elements into a minimum viable company. Build one and you’ve formed the foundation for a unicorn.
+
+
+
+
+
+
+
+
+
+
+
+
+
